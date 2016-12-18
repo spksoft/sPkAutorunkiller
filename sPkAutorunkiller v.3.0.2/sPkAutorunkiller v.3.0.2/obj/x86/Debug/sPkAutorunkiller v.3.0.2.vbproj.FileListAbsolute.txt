@@ -1,0 +1,32 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\bin\Debug\sPkAutorunkiller v.3.0.2.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\bin\Debug\sPkAutorunkiller v.3.0.2.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\bin\Debug\sPkAutorunkiller v.3.0.2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\bin\Debug\sPkAutorunkiller v.3.0.2.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\obj\x86\Debug\sPkAutorunkiller.frmAbout.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\obj\x86\Debug\sPkAutorunkiller.frmLogFileViewer.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\obj\x86\Debug\sPkAutorunkiller.frmMain.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\obj\x86\Debug\sPkAutorunkiller.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\obj\x86\Debug\sPkAutorunkiller.frmSettings.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\obj\x86\Debug\sPkAutorunkiller v.3.0.2.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\obj\x86\Debug\sPkAutorunkiller v.3.0.2.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\obj\x86\Debug\sPkAutorunkiller v.3.0.2.pdb
+E:\sPkAutorunkiller v.3.5\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\sPkAutorunkiller v.3.5\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\obj\x86\Debug\sPkAutorunkiller.frmAbout.resources
+E:\sPkAutorunkiller v.3.5\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\obj\x86\Debug\sPkAutorunkiller.frmLogFileViewer.resources
+E:\sPkAutorunkiller v.3.5\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\obj\x86\Debug\sPkAutorunkiller.frmMain.resources
+E:\sPkAutorunkiller v.3.5\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\obj\x86\Debug\sPkAutorunkiller.Resources.resources
+E:\sPkAutorunkiller v.3.5\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\obj\x86\Debug\sPkAutorunkiller.frmSettings.resources
+E:\sPkAutorunkiller v.3.5\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\sPkAutorunkiller v.3.5\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\obj\x86\Debug\ResGen.read.1.tlog
+E:\sPkAutorunkiller v.3.5\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\sPkAutorunkiller v.3.5\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\obj\x86\Debug\ResGen.write.1.tlog
+E:\sPkAutorunkiller v.3.5\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\bin\Debug\sPkAutorunkiller v.3.6.exe.config
+E:\sPkAutorunkiller v.3.5\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\bin\Debug\sPkAutorunkiller v.3.6.exe
+E:\sPkAutorunkiller v.3.5\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\bin\Debug\sPkAutorunkiller v.3.6.pdb
+E:\sPkAutorunkiller v.3.5\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\bin\Debug\sPkAutorunkiller v.3.6.xml
+E:\sPkAutorunkiller v.3.5\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\obj\x86\Debug\sPkAutorunkiller v.3.6.exe
+E:\sPkAutorunkiller v.3.5\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\obj\x86\Debug\sPkAutorunkiller v.3.6.xml
+E:\sPkAutorunkiller v.3.5\sPkAutorunkiller v.3.0.2\sPkAutorunkiller v.3.0.2\obj\x86\Debug\sPkAutorunkiller v.3.6.pdb

@@ -1,0 +1,51 @@
+﻿[SpkLog]
+[29-May-12 11:07:12 AM] |Write registry value| - |HKCU\Software\Microsoft\Windows\CurrentVersion\Run : sPkAutorunkiller v.3.0
+[29-May-12 12:02:58 PM] |File deleted| - |C:\test.lnk
+[29-May-12 12:02:58 PM] |Directory created| - |C:\test.lnk
+[29-May-12 12:02:58 PM] |File deleted| - |1.EXE
+[29-May-12 12:02:58 PM] |Directory created| - |1.EXE
+[29-May-12 12:02:58 PM] |File modified| - |C:\Autorun.inf
+[29-May-12 12:02:58 PM] |File modified| - |C:\Autorun.ini
+[29-May-12 12:02:58 PM] |Error>> |Directory creation Failed| - |C:\Autorun.ini
+[29-May-12 12:02:59 PM] |File modified| - |C:\Autorun.inf
+[29-May-12 12:02:59 PM] |File modified| - |C:\Autorun.ini
+[29-May-12 12:02:59 PM] |Error>> |Directory creation Failed| - |C:\Autorun.ini
+[29-May-12 12:03:01 PM] |File modified| - |C:\Autorun.inf
+[29-May-12 12:03:01 PM] |File modified| - |C:\Autorun.ini
+[29-May-12 12:03:01 PM] |Error>> |Directory creation Failed| - |C:\Autorun.ini
+[29-May-12 12:03:25 PM] |File modified| - |C:\Autorun.inf
+[29-May-12 12:03:25 PM] |File modified| - |C:\Autorun.ini
+[29-May-12 12:03:25 PM] |Error>> |Directory creation Failed| - |C:\Autorun.ini
+[29-May-12 12:03:27 PM] |File modified| - |C:\Autorun.inf
+[29-May-12 12:03:27 PM] |File modified| - |C:\Autorun.ini
+[29-May-12 12:03:27 PM] |Error>> |Directory creation Failed| - |C:\Autorun.ini
+[29-May-12 12:03:28 PM] |File modified| - |C:\Autorun.inf
+[29-May-12 12:03:28 PM] |File modified| - |C:\Autorun.ini
+[29-May-12 12:03:28 PM] |Error>> |Directory creation Failed| - |C:\Autorun.ini
+[29-May-12 12:05:17 PM] |File modified| - |C:\Autorun.ini
+[29-May-12 12:05:17 PM] |Error>> |Directory creation Failed| - |C:\Autorun.ini
+[29-May-12 12:05:18 PM] |File modified| - |C:\Autorun.ini
+[29-May-12 12:05:18 PM] |Error>> |Directory creation Failed| - |C:\Autorun.ini
+[29-May-12 12:05:19 PM] |File modified| - |C:\Autorun.ini
+[29-May-12 12:05:19 PM] |Error>> |Directory creation Failed| - |C:\Autorun.ini
+[29-May-12 12:32:17 PM] |File deleted| - |2.EXE
+[29-May-12 12:32:17 PM] |Directory created| - |2.EXE
+[29-May-12 12:32:17 PM] |File deleted| - |C:\Autorun.ini
+[29-May-12 12:32:17 PM] |Directory created| - |C:\Autorun.ini
+[29-May-12 12:46:01 PM] |File deleted| - |2.EXE
+[29-May-12 12:46:01 PM] |Directory created| - |2.EXE
+[29-May-12 12:46:01 PM] |File deleted| - |C:\Autorun.inf
+[29-May-12 12:46:01 PM] |Directory created| - |C:\Autorun.inf
+[29-May-12 12:46:01 PM] |File deleted| - |3.EXE
+[29-May-12 12:46:01 PM] |Directory created| - |3.EXE
+[29-May-12 12:46:01 PM] |File deleted| - |C:\Autorun.ini
+[29-May-12 12:46:01 PM] |Directory created| - |C:\Autorun.ini
+[29-May-12 12:49:28 PM] |File deleted| - |1.EXE
+[29-May-12 12:49:28 PM] |Directory created| - |1.EXE
+[29-May-12 12:49:28 PM] |File deleted| - |C:\Autorun.inf
+[29-May-12 12:49:28 PM] |Directory created| - |C:\Autorun.inf
+[29-May-12 12:49:28 PM] |File deleted| - |2.EXE
+[29-May-12 12:49:28 PM] |Directory created| - |2.EXE
+[29-May-12 12:49:28 PM] |File deleted| - |C:\Autorun.ini
+[29-May-12 12:49:28 PM] |Directory created| - |C:\Autorun.ini
+[29-May-12 1:36:55 PM] |Write registry value| - |HKCU\Software\Microsoft\Windows\CurrentVersion\Run : sPkAutorunkiller v.3.0

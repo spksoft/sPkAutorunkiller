@@ -1,0 +1,4 @@
+﻿[SpkLog]
+[23-Oct-12 2:40:06 PM] |Write registry value| - |HKCU\Software\Microsoft\Windows\CurrentVersion\Run : sPkAutorunkiller v.3.0
+[23-Oct-12 2:41:32 PM] |Write registry value| - |HKCU\Software\Microsoft\Windows\CurrentVersion\Run : sPkAutorunkiller v.3.0
+[23-Oct-12 9:15:57 PM] |Write registry value| - |HKCU\Software\Microsoft\Windows\CurrentVersion\Run : sPkAutorunkiller v.3.0
